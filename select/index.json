@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "One Hundred Ways",
+  "base_artist": "Quincy Jones & James Ingram",
+  "createdAt": "2026-03-11T07:13:00.644442Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Hundred Ways",
+      "artist": "Quincy Jones & James Ingram",
+      "has_synced": true,
+      "path": "select/01_One_Hundred_Ways_Quincy_Jones_&_James_Ingram.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Hundred Ways",
+      "artist": "Quincy Jones and James Ingram",
+      "has_synced": false,
+      "path": "select/02_One_Hundred_Ways_Quincy_Jones_and_James_Ingram.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Hundred Ways",
+      "artist": "Quincy Jones",
+      "has_synced": true,
+      "path": "select/03_One_Hundred_Ways_Quincy_Jones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Hundred Ways",
+      "artist": "Quincy Jones",
+      "has_synced": true,
+      "path": "select/04_One_Hundred_Ways_Quincy_Jones.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Hundred Ways",
+      "artist": "Quincy Jones, James Ingram",
+      "has_synced": true,
+      "path": "select/05_One_Hundred_Ways_Quincy_Jones,_James_Ingram.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Hundred Ways",
+      "artist": "Quincy Jones And James Ingram",
+      "has_synced": true,
+      "path": "select/06_One_Hundred_Ways_Quincy_Jones_And_James_Ingram.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Hundred Ways - New Version",
+      "artist": "James Ingram",
+      "has_synced": true,
+      "path": "select/07_One_Hundred_Ways_-_New_Version_James_Ingram.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Hundred Ways - James Ingram",
+      "artist": "James Ingram",
+      "has_synced": true,
+      "path": "select/08_One_Hundred_Ways_-_James_Ingram_James_Ingram.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Hundred Ways.mp3",
+      "artist": "Quincy Jones & James Ingram",
+      "has_synced": true,
+      "path": "select/09_One_Hundred_Ways.mp3_Quincy_Jones_&_James_Ingram.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Hundred Ways (Featuring James Ingram)",
+      "artist": "Quincy Jones",
+      "has_synced": true,
+      "path": "select/10_One_Hundred_Ways_(Featuring_James_Ingram)_Quincy_Jones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Hundred Ways",
+      "artist": "Quincy Jones/James Ingram",
+      "has_synced": true,
+      "path": "select/11_One_Hundred_Ways_Quincy_Jones_James_Ingram.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Hundred Ways",
+      "artist": "Quincy Jones & James Ingram",
+      "has_synced": false,
+      "path": "select/pl_01_One_Hundred_Ways_Quincy_Jones_&_James_Ingram.txt"
+    }
+  ]
+}
